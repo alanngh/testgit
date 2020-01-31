@@ -2,6 +2,6 @@
 
 int main(){
   printf("----------------\nHello world!!\n----------------\n");
-  printf(" From Cascate vt cluster\n");
+  printf(" From OnDemand Cascate vt cluster\n");
   return 0;
 }
