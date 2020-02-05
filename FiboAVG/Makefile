@@ -19,3 +19,13 @@ buildAvg:
 	gcc avg.c -o obj/avg
 runAvg:
 	./obj/avg
+
+buildAvgStruct:
+	gcc avgStruct.c -o obj/avgStruct
+runAvgStruct:
+	./obj/avgStruct
+
+buildAvgStructArray:
+	gcc avgStructArray.c -o obj/avgStructArr
+runAvgStructArray:
+	./obj/avgStructArr
